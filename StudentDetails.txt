@@ -1,0 +1,19 @@
+
+
+First Name: Malsha
+Last Name: Nuwanthi
+Gender: Female
+Phone Number: 76665555
+Email: malsha@gmail.com
+Address: Gampaha
+Department: SE 
+Courses: C PHP Java Phython 
+
+First Name: Nuwan
+Last Name: Kumara
+Gender: Male
+Phone Number: 55666666
+Email: nuwan@gmail.com
+Address: Colombo
+Department: CS 
+Courses: C PHP  Phython 
