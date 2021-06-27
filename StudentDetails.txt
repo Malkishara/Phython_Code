@@ -1,0 +1,18 @@
+
+First Name: Malsha
+Last Name: Rathnayaka
+Gender: Female
+Phone Number: 0772345677
+Email: malsha11@gmail.com
+Address: Gampaha
+Department: SE 
+Courses:     
+
+First Name: Nuwan
+Last Name: Yapa
+Gender: Male
+Phone Number: 0776548877
+Email: nuwan67@gmail.com
+Address: Colombo
+Department: IT 
+Courses: C PHP   
