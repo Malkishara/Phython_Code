@@ -1,0 +1,19 @@
+
+
+First Name: Malsha
+Last Name: Rathnayaka
+Gender: Female
+Phone Number: 0776542233
+Email: malsha11@gmail.com
+Address: Gampaha
+Department: SE 
+Courses: C PHP Java Phython 
+
+First Name: Nuwan
+Last Name: Yapa
+Gender: Male
+Phone Number: 0776555555
+Email: nuwan45@gmail.com
+Address: Colombo
+Department: CS 
+Courses: C PHP  Phython 
